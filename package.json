@@ -32,6 +32,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://victorpunko.ru/dev/mega-snake/",
   "browserslist": {
     "production": [
       ">0.2%",
